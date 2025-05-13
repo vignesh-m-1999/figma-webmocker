@@ -1,4 +1,4 @@
 [[redirects]]
-from="/*"
-to="/index.xhtml"
-status=200
+from = "/*"
+to = "/index.xhtml"
+status = 200
